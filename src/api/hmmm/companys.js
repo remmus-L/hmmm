@@ -16,3 +16,9 @@ export const remove = data => createAPI(`/companys/${data.id}`, 'delete', data)
 export const detail = data => createAPI(`/companys/${data.id}`, 'get', data)
 export const disabled = data =>
   createAPI(`/companys/${data.id}/state`, 'post', data)
+
+  /**
+   * 获取企业列表
+   * @returns 
+   */
+
