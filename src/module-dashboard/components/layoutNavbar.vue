@@ -9,7 +9,7 @@
       <!-- <div class="sidebar-logo-mini"> -->
       <!-- <img src="../assets/minilogo.png"> -->
       <!-- </div> -->
-      不会写的看人资是怎么写的+遇到报错请把错误拷贝百度一下+控制台看不懂请翻译+如果是ajax要看network看载荷
+      <!-- 不会写的看人资是怎么写的+遇到报错请把错误拷贝百度一下+控制台看不懂请翻译+如果是ajax要看network看载荷 -->
     </div>
     <!-- <hamburger class="hamburger-container" :toggleClick="toggleSideBar" :isActive="sidebar.opened"></hamburger> -->
 
