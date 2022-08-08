@@ -20,6 +20,7 @@ import dashboard from '@/module-dashboard/' // 面板
 import hmmm from '@/module-hmmm/'
 import Cookies from 'js-cookie'
 axios.defaults.baseURL = 'http://hmmm-api.itheima.net'
+// axios.defaults.baseURL = 'http://www.linweisong.top:7001/'
 
 const TokenKey = 'Admin-Token'
 axios.interceptors.request.use(

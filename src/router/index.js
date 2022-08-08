@@ -120,7 +120,6 @@ Router.prototype.push = function push (location) {
   return originalPush.call(this, location).catch(err => err)
 }
 
-
 /**
  * 导出 基础路由
  **/
