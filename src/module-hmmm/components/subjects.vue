@@ -316,6 +316,7 @@ export default {
   margin-bottom: 10px;
 }
 .left {
+  padding-right: 20px;
   display: flex;
   align-items: center;
 }
